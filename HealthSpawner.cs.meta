@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: cdda5ca7b72135c4d98772c82f63f1b6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - healthPickupPrefab: {fileID: 6235855244637647917, guid: 621f6aa50e2e827448d530b60d7a72a4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
